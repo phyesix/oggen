@@ -1,0 +1,23 @@
+{
+  "name": "oggen",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest",
+    "api"
+  ],
+  "author": "phyesix",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
